@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-audiotoggle",
+  "name": "com.dooble.audiotoggle",
   "version": "1.0.0",
   "description": "Cordova audiotoggle Plugin",
   "cordova": {
-    "id": "cordova-plugin-audiotoggle",
+    "id": "com.dooble.audiotoggle",
     "platforms": [
       "ios",
       "ubuntu",
