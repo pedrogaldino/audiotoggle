@@ -1,0 +1,41 @@
+{
+  "name": "cordova-plugin-audiotoggle",
+  "version": "1.0.0",
+  "description": "Cordova audiotoggle Plugin",
+  "cordova": {
+    "id": "cordova-plugin-audiotoggle",
+    "platforms": [
+      "ios",
+      "ubuntu",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedrogaldino/audiotoggle"
+  },
+  "keywords": [
+    "cordova",
+    "console",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-ubuntu",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-windows"
+  ],
+  "author": "Pedro Galdino",
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      ">=2.0.0": {
+        "cordova-ios": "<4.5.0",
+        "cordova-windows": "<=5.0.0"
+      }
+    }
+  }
+}
